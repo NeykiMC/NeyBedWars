@@ -1,7 +1,7 @@
 # BedWars
 
 
-Complete rewrite of the BedWarsRel plugin.
+Refonte toute entière du plugin BedwarsRel
 Thia project is now under complete rewrite and we don't have much of time, so be patient :)
 
 This is the stable branch with bugfixes supporting all versions since 1.9! For new branch visit [1.x.x_dev](https://github.com/ScreamingSandals/BedWars/tree/1.x.x_dev)
